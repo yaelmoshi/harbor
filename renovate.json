@@ -10,9 +10,7 @@
   ],
   "ignoreDeps": [
     "postgresql",
-    "redis",
-    "github.com/distribution/distribution",
-    "github.com/docker/distribution"
+    "redis"
   ],
   "packageRules": [
     {
