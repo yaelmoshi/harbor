@@ -9,7 +9,7 @@ require (
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2
 	github.com/aws/aws-sdk-go v1.55.8
 	github.com/beego/beego/v2 v2.3.10
-	github.com/beego/i18n v0.0.0-20140604031826-e87155e8f0c0
+	github.com/beego/i18n v0.0.0-20161101132742-e9308947f407
 	github.com/bmatcuk/doublestar v1.3.4
 	github.com/casbin/casbin v1.9.1
 	github.com/cenkalti/backoff/v4 v4.3.0
@@ -18,7 +18,7 @@ require (
 	github.com/dghubble/sling v1.4.2
 	github.com/docker/distribution v2.8.3+incompatible
 	github.com/docker/libtrust v0.0.0-20160708172513-aabc10ec26b7
-	github.com/go-asn1-ber/asn1-ber v1.5.8-0.20250403174932-29230038a667
+	github.com/go-asn1-ber/asn1-ber e7dc79048676
 	github.com/go-ldap/ldap/v3 v3.4.11
 	github.com/go-openapi/errors v0.22.4
 	github.com/go-openapi/loads v0.23.2
@@ -27,7 +27,7 @@ require (
 	github.com/go-openapi/strfmt v0.25.0
 	github.com/go-openapi/swag v0.23.1
 	github.com/go-openapi/validate v0.25.1
-	github.com/gocarina/gocsv v0.0.0-20210516172204-ca9e8a8ddea8
+	github.com/gocarina/gocsv v0.0.0-20240520201108-78e41c74b4b1
 	github.com/gocraft/work v0.5.1
 	github.com/golang-jwt/jwt/v5 v5.2.2
 	github.com/golang-migrate/migrate/v4 v4.19.0
